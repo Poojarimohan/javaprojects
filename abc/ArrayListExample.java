@@ -1,6 +1,7 @@
 package abc;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class ArrayListExample {
 
@@ -18,6 +19,7 @@ public class ArrayListExample {
 		System.out.println(cities);
 		cities.set(0, "pune");
 		System.out.println(cities);
+		
 
 	}
 
